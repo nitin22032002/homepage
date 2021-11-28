@@ -1,5 +1,5 @@
 {
-  "homepage":"http://nitin22032002.github.io/homepage",
+  "homepage": "http://nitin22032002.github.io/homepage",
   "name": "interproject",
   "version": "0.1.0",
   "private": true,
@@ -28,7 +28,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" 
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
